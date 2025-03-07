@@ -2,6 +2,4 @@
 
 `sxz.astrack.me` 迁移至 `zy.metasxz.org`
 
-`zyapi.astrack.me` 迁移至 `zyapi.metasxz.org`
-
-`gp.astrack.me` 迁移至 `ast-gh.okay.moe`
+`gp.astrack.me` 迁移至 `gh.okay.moe`
